@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration from the Lords and Commons assembled at Edinburgh, to the Right Honourable, the Lord Mayor, Aldermen, and Common-Councell of the city of London; concerning the report of the commissioners touching the said city and army. Agreed upon by the Generall Assembly of the kingdom of Scotland, signed, Crawford and Lindsay, President of Parliament. Together with their protestation, to defend and maintain the Kings Majesties royall person, honour, and estate, according to the National League and Covenant. Also, a letter from the Generall Assembly of the Kirk of Scotland, touching the Kings Majesty, and the Parliament of England. Sent by the Lord Maitland. Subscribed in name and by command of the commission of the Generall Assembly. Robert Douglasse, moderator. A. Johnston, cler</title>
+            <author>Scotland. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92536</idno><idno type="EEBO-CITATION">99865331</idno>
+  <idno type="VID">161534</idno>
+  <idno type="EEBO-PROQUEST">2240915839</idno>
+  
+            <idno type="STC">Wing S1202A</idno>
+            <idno type="STC">Thomason E432_20</idno>
+            <idno type="STC">ESTC R206154</idno>
+            <idno type="PROQUEST">99865331</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99865331e"/>
+            <note>(EEBO-TCP ; phase 2, no. A92536)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161534)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 68:E432[20])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration from the Lords and Commons assembled at Edinburgh, to the Right Honourable, the Lord Mayor, Aldermen, and Common-Councell of the city of London; concerning the report of the commissioners touching the said city and army. Agreed upon by the Generall Assembly of the kingdom of Scotland, signed, Crawford and Lindsay, President of Parliament. Together with their protestation, to defend and maintain the Kings Majesties royall person, honour, and estate, according to the National League and Covenant. Also, a letter from the Generall Assembly of the Kirk of Scotland, touching the Kings Majesty, and the Parliament of England. Sent by the Lord Maitland. Subscribed in name and by command of the commission of the Generall Assembly. Robert Douglasse, moderator. A. Johnston, cler</title>
+                  <author>Scotland. Parliament.</author>
+                  <author>City of London (England). Court of Common Council.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R.W.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "March. 19 1647"; the 8 in the imprint date is crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="uniform_title">Solemn League and Covenant (1643).</term>
+               <term type="geographic_name">London (England) --  History --  17th century --  Early works to 1800.</term>
+               <term type="geographic_name">England --  Foreign relations --  Scotland --  Early works to 1800.</term>
+               <term type="geographic_name">Scotland --  Foreign relations --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161534:1"/>
+            <p>A DECLARATION FROM The <hi>Lords</hi> and <hi>Commons</hi> assembled at <hi>Edinburgh,</hi> To the Right Honourable, the Lord Mayor, Aldermen, and Common-Councell of the City of <hi>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ondon;</hi> concer<g ref="char:EOLhyphen"/>ning the Report of the Commissioners touch<g ref="char:EOLhyphen"/>ing the said City and Army.</p>
+            <p>
+               <hi>Agreed upon by the Generall Assembly of the Kingd<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m of</hi> Scotland, Signed, CRAWFORD and LINDSAY, <hi>President of Parliament.</hi>
+            </p>
+            <p>Together with their <hi>Protestation,</hi> to defend and maintain the Kings Majesties Royall Person, Honour, and Esta<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, according to the Nationall League and Covenant.</p>
+            <p>Also, a Letter from the Generall Assembly of <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Kirk of <hi>Scotland,</hi> touching the Kings Majesty, and the Parliament of <hi>England. Sent by the Lord MAITLAND.</hi>
+            </p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="approbation">
+                        <p>SVbsc<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ibed in N<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>me and by Command of the Commission of the Generall Assembly, by</p>
+                        <closer>
+                           <signed>
+                              <list>
+                                 <item>Robert Douglasse, Moderator.</item>
+                                 <item>
+                                    <gap reason="illegible" extent="1 word">
+                                       <desc>〈◊〉</desc>
+                                    </gap>. Johnst<gap reason="illegible" extent="1 letter">
+                                       <desc>•</desc>
+                                    </gap>n, Cler</item>
+                              </list>
+                           </signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <figure>
+               <figDesc>blazon of the City of London, consisting of a shield bearing the cross of St. George (patron saint of England) with a sword (emblem of the martyrdom of St. Paul, patron saint of London) in the first quarter of the shield</figDesc>
+            </figure>
+            <p>
+               <add>march iij</add>
+               <hi>London,</hi> Printed for R. W. 1648. <add>1647</add>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb facs="tcp:161534:2"/>
+            <pb n="1" facs="tcp:161534:2"/>
+            <head>A Declaration from the Generall Assembly of the King<g ref="char:EOLhyphen"/>dome of <hi>Scotland,</hi> to the Right Honourable, the Lord Mayor, Aldermen, and Common-Councell of the City of <hi>London.</hi>
+            </head>
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>YOur severall addresses to the Honourable Houses of Parliament, and the relation of your Commis<g ref="char:EOLhyphen"/>sioners, have given us some knowledge of your af<g ref="char:EOLhyphen"/>fection, and true zeal for the Reformation of Re<g ref="char:EOLhyphen"/>ligion, and Uniformity of Church-Government, as hath much refreshed us in our greatest difficulties, and doth far exceed our acknowledgments.</p>
+            <p>Your constant care of advancing and furnishing very great sums of money to the Army, who stood for defence of Religion, and the just publike Liqerty of the Subjects in all the three Kingdoms, hath caused an evident demonstra<g ref="char:EOLhyphen"/>tion how much you prefer the good of the Publike to your private Interest.</p>
+            <pb n="2" facs="tcp:161534:3"/>
+            <p>And likewise your speciall regard, in providing all other necessary pro<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ision<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, in the times of their most u<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gent ne<g ref="char:EOLhyphen"/>cessities, hath so greatly endeared unto us the Brotherly af<g ref="char:EOLhyphen"/>fection of that famous City, as will not only be a reall tye of Amity for the present, but will likewise lay a firme foundation of reciprocall kindnesse, and inviolable <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>riend<g ref="char:EOLhyphen"/>ship for all succeeding Ages.</p>
+            <p>And as the many reall proofs of your affection and fide<g ref="char:EOLhyphen"/>lity, in doing and suffering for the cause of God, gives unto Us full perswasions and confidence of your constancy for promoting thereof, till (by Gods blassing upon the joynt endeavours of both Nations) Truth with a just Peace (which is the highest of our Desires) be setled in all the Kingdoms.</p>
+            <p>So do we conceive it suitable to your deserts, and agree<g ref="char:EOLhyphen"/>able to the gratitude of this Kingdom, to returne you most hearty thanks, and to assure you, that all our Actions shall witnesse the cander and sincerity of our intentions, and most earnest desires to embrace and improve all opportunities, which may conduce to the prosperity of your City, and te<g ref="char:EOLhyphen"/>stifie the Brotherly affection of</p>
+            <closer>
+               <signed>Your most loving and faithfull friends, <hi>Crawford</hi> and <hi>Lindsay, President of Parliament.</hi>
+               </signed>
+            </closer>
+            <trailer>For the Right Honourable, the Lord Mayor, Aldermen, and Com<g ref="char:EOLhyphen"/>mon-Councell of the City of <hi>London.</hi>
+            </trailer>
+         </div>
+         <div type="part">
+            <pb n="3" facs="tcp:161534:3"/>
+            <head>The Protestation of the Estates of the Kingdom of <hi>Scotland,</hi> now assembled at <hi>Edenburgh,</hi> touching the Kings Ma<g ref="char:EOLhyphen"/>jesty, and the Kingdome of <hi>England.</hi>
+            </head>
+            <p>WHereas the Honour, Greatnesse, and Happinesse, of the Kings Royal Majesty, and the welfare of the Subject, dependeth on the purity of Religion, the Laws, Li<g ref="char:EOLhyphen"/>berties and peace thereof, which ought to be sought after by all good Christians, loyal Patriots, and true Subjects, and to be furthered and maintained by them, against all such, as shall by any meanes endeavour to shake or subvert the same.</p>
+            <p>Therefore we under-scribers, and every one of us, doe in the presence of Almighty God, promise and vow, that in this present Parliament, we shal faithfully and freely speak answer and expresse our selves upon all and every thing which shal be propounded, so far as we think in o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on<g ref="char:EOLhyphen"/>science may conduce to the glory of God, the good and peace of the Kirk, and State of this Kingdome, and employ our best endeavours to promote the same, and shall in no way advise, voice, nor consent to any thing to our best knowledge, we think not most expedient and conduceable thereunto.</p>
+            <p>As also, that we shall defend and maintaine with our lives, powers, and estate, his Majesties Royal Person, Honor, and Estate, as is expressed in our National Covenant.</p>
+            <pb n="4" facs="tcp:161534:4"/>
+            <p>As also, that wee shall endeavour to preserve and defend His Majesties Royal Person, the power and priviled<g ref="char:EOLhyphen"/>ges of Parliament, and the Laws and Liberties of the Sub<g ref="char:EOLhyphen"/>ject, and by all good wayes and meanes oppose and endea<g ref="char:EOLhyphen"/>vour to bring to exact tryal all such, as either by plots or conspiracies have done, or shal doe any thing to the preju<g ref="char:EOLhyphen"/>dice of the purity of Religion, the Laws, Liberties, and peace of the Kingdom. And further, that we shal in all just and ho<g ref="char:EOLhyphen"/>nourable wayes endeavour to preserve union and peace be<g ref="char:EOLhyphen"/>twixt the three Kingdoms of <hi>Scotland, England,</hi> and <hi>Ireland,</hi> and neither for hope, fear, nor other respect shal relinquish this vow and promise.</p>
+         </div>
+         <div type="part">
+            <head>The true Copy of the Declaration sent from the Generall Assem<g ref="char:EOLhyphen"/>bly of the Kirk of <hi>Scotland,</hi> to the Assembly of Divines assembled at <hi>Westminster.</hi>
+            </head>
+            <opener>
+               <salute>Right Reverend and beloved in the Lord Iesus,</salute>
+            </opener>
+            <p>YOu may perceive, that your last Letter which came so seasonably into our hands, was not onely acceptable unto us, but hath also encouraged us to renew, both to the Kings Majesty, and his great Councel, the desires of the Commissioners of this Kingdom, for unity in Religion in the four particulars remembred by you. We cannot be ignorant, but the opposition from Sathan, and worldly men in Kirk, will still be vehement, as it hath beene already.</p>
+            <p>But we are confident, through our Lord Jesus Christ, that
+<pb n="5" facs="tcp:161534:4"/> the prayers and endeavours of the godly in both Kingdom<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s will bring the work to a wished and blessed issue.</p>
+            <p>This whole National Kirk is so much concerned in that Reformation and Unity of Religion in both Kingdoms, that without it, we cannot hope for any long time to enjoy our purity and peace, which hath cost us so deer, and is now our chiefest comfort and greatest treasure; which one cause, beside the honour of God, and the happinesse of the people of God in that Kingdom) more desired of us then our lives, is more then sufficient to move us to contribute all that is in our power for bringing it to passe.</p>
+            <p>And since we have with so great liberty made our de<g ref="char:EOLhyphen"/>sires and hopes known both to King and Parliament, it is a duty incumbent both to you and Us, who make men<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion of the Lord, and are Watchmen upon the Wals of Jerusalem, never more to keep silence, nor to hold your peace day nor night, till the righteousnesse of Zion go forth as brightnesse and the salvation thereof as a Lamp that burneth</p>
+            <p>And if it shall please the Lord to move the hearts of King and Parliament to hearken unto the motion (for which end we have resolved to keep a Solemn Fast and Humilia<g ref="char:EOLhyphen"/>tion in all the Kirkes of this Kingdome, the meane by which we have prevailed in times past) we wish that the Worke may be begun with speed, and prosecuted with great dili<g ref="char:EOLhyphen"/>gence, by the joynt labours of Divines in both Kingdomes, who may prepare the same for the view and examination of a more frequent and Ecclesiasticke meeting of the best affected to Reformation there, and of the Commissioners of the General Assembly here, that in the end it may have the approbation of the General Assembly here, and of all the
+<pb n="6" facs="tcp:161534:5"/> Kirks there, in the best way that may be, we wish and hope at last in a National Assembly.</p>
+            <p>Our Commissioners at <hi>Edenburgh</hi> shal in our name <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<g ref="char:EOLhyphen"/>ceive and return answers for promoting so great a Work, which we with our heart and soule recommend to the bles<g ref="char:EOLhyphen"/>sing of God, and continue,</p>
+            <closer>
+               <signed>Your loving Brethren, and Fellow-Labourers The Commissioners of the Generall As<g ref="char:EOLhyphen"/>sembly; subscribing by our Moderator, and Clerk. <hi>Vera Copia,</hi>
+                  <list>
+                     <item>Robert Douglasse, Moderator.</item>
+                     <item>A. Johnston, Cler.</item>
+                  </list>
+               </signed>
+            </closer>
+            <postscript>
+               <p>This Letter was presented to the Assembly of Divines by the <hi>Right Honourable,</hi> the Lord <hi>Maitland.</hi>
+               </p>
+               <p>Imprimatur,</p>
+               <closer>
+                  <signed>G. M.</signed>
+               </closer>
+            </postscript>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
